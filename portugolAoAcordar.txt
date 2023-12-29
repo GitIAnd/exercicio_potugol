@@ -1,0 +1,19 @@
+Rotina ao acordar
+
+1 - Abrir os olhos
+2 - Sentar na cama
+3 - Olhar o horário no celular. São 08:30hrs?
+4 - Não
+	1 - Deitar novamente
+	2 - Fechar os olhos
+5 - Sim
+	1 - Levantar da cama
+	2 - Ir ao banheiro
+	3 - Lavar o rosto
+	4 - Ir a cozinha
+	5 - Tomar café
+	6 - Ir ao quarto
+	7 - Ligar o computador
+	8 - Começar os estudos
+
+FIM.
